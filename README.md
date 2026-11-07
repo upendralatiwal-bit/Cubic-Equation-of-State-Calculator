@@ -2,10 +2,11 @@
 
 A browser-based tool for predicting the PVT behaviour and thermodynamic properties of pure real gases using cubic equations of state.
 
-**Group members:** Upendra Kumar (2025CH11982), Sadiya (2025CH12131)  
+**Group members:** Upendra Kumar (2025CH11982), Sadiya Adil (2025CH12131)  
 Department of Chemical Engineering, IIT Delhi
 
-**Live site:** https://upendralatiwal-bit.github.io/Cubic-Equation-of-State-Calculator/
+**Live site:** https://upendralatiwal-bit.github.io/Cubic-Equation-of-State-Calculator/  
+**Repository:** https://github.com/upendralatiwal-bit/Cubic-Equation-of-State-Calculator
 
 ## Features
 - **EOS models:** van der Waals, Redlich–Kwong, Soave–Redlich–Kwong, Peng–Robinson (generic σ–ε–Ω–Ψ form)
