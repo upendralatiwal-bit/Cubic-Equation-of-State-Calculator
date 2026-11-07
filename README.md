@@ -5,7 +5,7 @@ A browser-based tool for predicting the PVT behaviour and thermodynamic properti
 **Group members:** Upendra Kumar (2025CH11982), Sadiya (2025CH12131)  
 Department of Chemical Engineering, IIT Delhi
 
-**Live site:** `https://<your-username>.github.io/cubic-eos/`
+**Live site:** https://github.com/upendralatiwal-bit/Cubic-Equation-of-State-Calculator
 
 ## Features
 - **EOS models:** van der Waals, Redlich–Kwong, Soave–Redlich–Kwong, Peng–Robinson (generic σ–ε–Ω–Ψ form)
